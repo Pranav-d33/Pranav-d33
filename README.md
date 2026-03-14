@@ -23,34 +23,34 @@ My path started with circuits and signals — but somewhere between understandin
 
 ---
 
-## 🔨 What I Actually Build
+## ▸ What I Actually Build
 
 > *I don't collect projects — I build things I want to understand deeply.*
 
 <br>
 
-### 🧠 GPT-style Small Language Model — *trained from scratch*
+### ▸ GPT-style Small Language Model — *trained from scratch*
 Not fine-tuning, not LoRA on someone else's weights. A full GPT architecture (6 layers, 6 heads, 384-dim) trained on TinyStories from scratch — custom tokenization, mmap pipelines, AMP mixed precision, warmup + cosine LR scheduling. Built to understand what's actually happening inside the attention mechanism.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-008080?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranav-d33/small_language_model_from_scratch-TinyStories-)
+[![Repo](https://img.shields.io/badge/View%20Repo-008080?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranav-d33/small_language_model_from_scratch-TinyStories)
 
 ---
 
-### 🤖 Medaura — *Autonomous Multi-Agent Pharmacy System*
+### ▸ Medaura — *Autonomous Multi-Agent Pharmacy System*
 A live system where 4 specialized agents (Ordering, Safety, Forecast, Procurement) collaborate autonomously — prescription parsing, inventory reasoning, order generation across 4 languages. ChromaDB for semantic retrieval, Langfuse for full observability of every LLM reasoning step. Not a chatbot wrapper — a real agentic architecture.
 
 [![Live](https://img.shields.io/badge/Live%20Demo-008080?style=flat-square&logo=vercel&logoColor=white)](https://aipharmacyproject-blond.vercel.app/)
 
 ---
 
-### 📡 RFwatch — *open-source RF monitoring tool*
+### ▸ RFwatch — *open-source RF monitoring tool*
 Desktop application for detecting, analyzing, and visualizing RF signals in real time using HackRF One. Clean four-layer architecture: UI → EngineController → Engine pipeline → IQ hardware. Physical-layer first — no protocol decoding, no black-box classification. Everything is deterministic and traceable. Dual modes: Inspector and Scanner.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-008080?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranav-d33/RFwatch)
 
 ---
 
-## 🛠️ Stack
+## ▸ Stack
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 
 ---
 
-## 📊 GitHub Stats
+## ▸ GitHub Stats
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 
 ---
 
-## 🏆 Credentials That Actually Mean Something
+## ▸ Credentials That Actually Mean Something
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 
 ---
 
-## 🎯 What I'm After
+## ▸ What I'm After
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 ---
 
 <details>
-<summary>🔬 Research Interests</summary>
+<summary>▸ Research Interests</summary>
 <br>
 
 - LLM scaling and emergent capabilities
@@ -138,7 +138,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 </details>
 
 <details>
-<summary>📜 Certifications</summary>
+<summary>▸ Certifications</summary>
 <br>
 
 - Quantization Fundamentals — Hugging Face
