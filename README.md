@@ -32,7 +32,7 @@ My path started with circuits and signals — but somewhere between understandin
 ### 🧠 GPT-style Small Language Model — *trained from scratch*
 Not fine-tuning, not LoRA on someone else's weights. A full GPT architecture (6 layers, 6 heads, 384-dim) trained on TinyStories from scratch — custom tokenization, mmap pipelines, AMP mixed precision, warmup + cosine LR scheduling. Built to understand what's actually happening inside the attention mechanism.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-008080?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranav-d33/small_language_model_from_scratch-TinyStories)
+[![Repo](https://img.shields.io/badge/View%20Repo-008080?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranav-d33/small_language_model_from_scratch-TinyStories-)
 
 ---
 
@@ -56,9 +56,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 
 **ML / AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **LLM & Agentic**
 
