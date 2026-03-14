@@ -56,6 +56,7 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 
 **ML / AI**
 
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **LLM & Agentic**
