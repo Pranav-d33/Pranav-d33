@@ -1,5 +1,4 @@
 <div align="center">
-# Project Title
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Prannav%20Dhiran&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20%7C%20AI%20%2F%20ML%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=50" />
 
