@@ -151,10 +151,5 @@ Desktop application for detecting, analyzing, and visualizing RF signals in real
 ---
 [![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=globe&logoColor=white)](https://pranavdhiran.me)
 
----
-## Description
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer" />
-</div>
-This is a sample description of the project.
+
