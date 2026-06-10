@@ -6,12 +6,11 @@
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║  PRANAV DHIRAN  ·  LLM & Agentic Systems Engineer        ║
-║  USC IRT Research Intern  ·  LFX Mentee @ Hyperledger    ║
-╚══════════════════════════════════════════════════════════╝
-```
+# PRANAV DHIRAN
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=%3E_LLM+%26+Agentic+Systems+Engineer;%3E_USC+IRT+Research+Intern;%3E_LFX+Mentee+%40+Hyperledger;%3E_Building+SLMs" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/pranavdhiran.me-0a0e17?style=flat-square&logo=vercel&logoColor=00d4ff&labelColor=0a0e17&color=0a0e17)](https://pranavdhiran.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e17?style=flat-square&logo=linkedin&logoColor=00d4ff&labelColor=0a0e17&color=0a0e17)](https://linkedin.com/in/prannav-dhiran)
@@ -26,7 +25,7 @@
 
 ```yaml
 roles:
-  - AI Research Intern @ USC IRT: Neurosymbolic SLM architecture & pre-training.
+  - AI Research Intern @ USC IRT: SLM architecture & pre-training.
   - LFX Mentee @ Hyperledger Cello: Building LLM agents for blockchain operations.
   - Open Source Contributor @ Meshery: CNCF Sandbox Go/React developer.
 
