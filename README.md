@@ -142,6 +142,7 @@ Building an AI agent that takes natural language input, reasons over sequence AP
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Pranav-d33/Pranav-d33/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-d33&theme=github_dark"/>
 
 <br/>
