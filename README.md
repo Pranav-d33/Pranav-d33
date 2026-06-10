@@ -8,7 +8,7 @@
 
 # PRANAV DHIRAN
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=%3E_LLM+%26+Agentic+Systems+Engineer;%3E_USC+IRT+Research+Intern;%3E_LFX+Mentee+%40+Hyperledger;%3E_Building+SLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=%3E_LLM+%26+Agentic+Systems+Engineer;%3E_USC+IRT+Research+Intern;%3E_LFX26+%40+Hyperledger+Cello;%3E_Building+SLMs" alt="Typing SVG" />
 
 <br/>
 
