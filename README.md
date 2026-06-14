@@ -157,6 +157,7 @@ Building an AI agent that takes natural language input, reasons over sequence AP
 
 ```text
 Exploring how language models learn, reason, and act.
+```
 
 <img src="https://api.visitorbadge.io/api/visitors?path=Pranav-d33%2FPranav-d33&label=Profile%20Views&labelColor=0a0e17&countColor=00d4ff&style=flat-square" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d1b2e,100:0a0e17&height=80&section=footer" width="100%"/></div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d1b2e,100:0a0e17&height=80&section=footer" width="100%"/></div> 
