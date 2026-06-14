@@ -137,8 +137,8 @@ Building an AI agent that takes natural language input, reasons over sequence AP
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranav-d33&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-d33&hide_border=true&background=0a0e17&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&stroke=1a2332"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranav-d33&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true&ring_color=00d4ff"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-d33&hide_border=true&background=0a0e17&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&stroke=1a2332&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff"/>
 
 <br/>
 
@@ -157,8 +157,6 @@ Building an AI agent that takes natural language input, reasons over sequence AP
 
 ```text
 Exploring how language models learn, reason, and act.
-```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d1b2e,100:0a0e17&height=80&section=footer" width="100%"/>
-
-</div>
+<img src="https://api.visitorbadge.io/api/visitors?path=Pranav-d33%2FPranav-d33&label=Profile%20Views&labelColor=0a0e17&countColor=00d4ff&style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d1b2e,100:0a0e17&height=80&section=footer" width="100%"/></div> ```
