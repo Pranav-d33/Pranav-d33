@@ -108,7 +108,7 @@ Building an AI agent that takes natural language input, reasons over sequence AP
 </td>
 <td width="50%" valign="top">
 
-**[Meshery / Meshkit](https://github.com/meshery)** — CNCF
+**[Meshery / Meshery](https://github.com/meshery)** — CNCF
 
 5+ merged PRs. Contributing to service mesh management features, UI components, and API integrations.
 
